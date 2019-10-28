@@ -1,25 +1,49 @@
-# emilypavis.github.io
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Emily's First Code</title>
+	<title>Emily Pavis</title>
+	<link rel="stylesheet" href="PortfolioCSS/PortfolioStyle.css">
 </head>
 <body>
-	<h1><u>Hi there! Welcome to My First Website.</u></h1>
-	<h3>My name is Emily, and I'm a second-year student in the Journalism + Design program at The New School. My interests include exploring my new neighborhood in New York City, having picnics at local parks, and watching music videos with my friends. I enjoy taking photos, eating diverse foods, and enjoying the sunshine.</h3>
-	<p>I am creating this website for a course I am taking called <b>Web Fundamentals</b> at The New School. <i>Anila Alexander</i> is my Professor. To read a description of the course, <a href=“https://courses.newschool.edu/courses/LLSJ2241/4191/”>click here!</a></p>
-	<p>Eventually, this website will be used as a portfolio where I can showcase my work as a college student. As of right now, I am using it to document to track my growth as an engineer. I hope you enjoy my page!</p>
-	<div><img src="https://data.whicdn.com/images/231085755/large.jpg" alt="cool"></div>
-	<br>
-	</p><h1><u>Food for Thought</u></h1>
-	<h3>Ever since I moved to the East Village, my pallet has definetly expanded. I've tried everything from ramen to perogies. This summer, I was able to immerse myself into the exotic food culture of my new neighborhood, and now I have a few favorite local spots that I would love to share with you all.</h3>
-	<div><img src="https://i.pinimg.com/originals/ae/9a/de/ae9ade59fafc8a22e4d1d6191dc8d38c.jpg" alt="cool"></div>
-	<p><b>Here's an <u>ordered list</u> of some great food spots around my neighborhood.</b></p><br>
-	<ol>
-		<li><b>Drunken Dumpling:</b> This dumpling spot is in the Ukranian Village on the corner of St. Marks and 1st Avenue. I always order the <b>pork soup dumplings</b>, 6 for $11.75 including tax. I usually order for pick-up, and enjoy the dish in my apartment, which is about 2 blocks away.</li>
-		<li><b>Shake Shack:</b> There wasn't a Shake Shack location where I grew up, although I had heard people raving about it before I had tried it. When I moved to New York, my dad took me to the Shake Shack by the Flat Iron to try it out, and it was amazing. Now, the Shake Shack at Astor Place is my go-to spot for a fulfilling meal when I'm hungover. I typically spend about $11 there on a juicy cheeseburger and crinkle-cut fries with cheesey dipping sause. Ironically, a Shake Shack opened up in my county back home in California the year I moved out.<div><a href= “https://www.shakeshack.com/location/marin-country-mart-ca/”>Here's a link to the new Shake Shack back home in California.</a></div> My younger brother has a few friends who work there now.</li>
-		<li><b>Veselka:</b> Open 24 hours, this Ukranian diner is right across the street from my apartment building. To be honest, I had no idea that it was such a popular spot in New York City- one day when I was watching <i>Gossip Girl</i>, some of the characters were talking about <i>meeting for perogies at Veselka</i>. Unfortunately, this spot does a little more damage to my budget, I've spent $25 there before on eggs benedict and a milkshake. To view the menu, <a href= “https://www.veselka.com”>click here.</a></li>
-		<li><b>Sake Bar Decible:</b> My current roommate Marin and I discovered this spot when we first started hanging out, before we were roommates. It was a Friday night and we wanted to go out for drinks. Not too familiar with the area, we searched for a location on Google Maps and ended up at Sake Bar Decible. We instantly fell in love with this speakeasy, it's darkly lit, there's a the walls are covered in stickers, grafiti and posters. The sake is on the more expensive side, but the small plates are generally pretty cheap. Funnily enough, the building that me and Marin moved in together is directly across the street from the Sake bar, so as you can probably assume, we are regulars.</li>
-</body>
-</html>
+	<marquee behavior="alternate" scrollamount="15"><h1 class="header">Emily Pavis: An Archive</h1></marquee>
+
+	<div><img class="hotel" src="https://i.pinimg.com/564x/0b/06/18/0b061814aef3acb114b69f82e0339817.jpg" alt=“hotel”>
+	<p class="caption">Malaika & Akir at The Mercer Hotel, NYC 2019</p></div>
+	<p class="intro">I am learning how to code at The New School in my Web Fundamentals class. It's taught by Professor Anila Alexander. One of our class assignments is to create a website to be used as a portfolio. I am using this website to spotlight my work as a writer and photographer. To read a description of the course, <a href="https://courses.newschool.edu/courses/LLSJ2241" target="_blank">click here.</a>Please explore the rest of this website and enjoy my artwork.</p>
+
+	<div><h3 class="social">Table of Contents:</h3>
+		<ol>
+			<li><a href="#aboutme">About Me</a></li>
+				<ul>
+					<li>Here you will find some fast fun facts about me.</li>
+				</ul>
+			<li><a href="#socialmedia">My Social Media</a></li>
+				<ul>
+					<li>The social media acounts that I use are linked here.</li>
+				</ul>
+		</ol></div>
+	<hr>
+	<a name="aboutme"></a>
+	<h3 class="social">About Me:</h3>
+		<ol>
+			<li>I was born and raised in California</li>
+			<li>My whole family is british!</li>
+			<li>I have a younger brother named Elliot who lives back in California</li>
+			<li>And I live in New York for college!</li>
+		</ol>
+<hr>
+	<a name="socialmedia"></a>
+	<h3 class="social">My Social Media:</h3>
+		<ul>
+			<li><a href="https://www.linkedin.com/in/emily-pavis-42bbab181"target="_blank">LinkedIn</a></li>
+			<li><a href="https://www.instagram.com/princesspavis/"target="_blank">Instagram</a>: @princesspavis</li>
+			<li><a href="https://twitter.com/emilypavis"target="_blank">Twitter</a>: @emilypavis</li>
+		</ul>
+	<hr>
+
+	<h3 class="social">Spotlight: Modeling</h3>
+		
+
+	</h1>
+
